@@ -1,0 +1,170 @@
+{
+   "checksum": "230e5d47b97995f5f5d76ea695d8df99",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13230529657288751",
+               "guid": "92cc3ebf-4180-4af8-92ca-af0beef19885",
+               "id": "7",
+               "meta_info": {
+                  "Description": "travel, airfare",
+                  "Partner": "11c1e4b1-6dcb-4c04-a3a4-ce24a03e8cca",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/booking-pt-br"
+            }, {
+               "date_added": "13230529657290167",
+               "guid": "52823995-66af-4432-aa3b-2711dbe6384b",
+               "id": "8",
+               "meta_info": {
+                  "Partner": "ec814323-3e2d-4086-8adf-5aa9947660f2",
+                  "Thumbnail": "/resources/sd_youtube.png"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13230529657290200",
+               "guid": "37371335-401d-42da-b725-a4dadf5a6ca5",
+               "id": "9",
+               "meta_info": {
+                  "Partner": "f23440b7-180c-4447-95b8-eb1fd0ab2451",
+                  "Thumbnail": "/resources/sd_br_americanas.png"
+               },
+               "name": "Americanas.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/americanas"
+            }, {
+               "date_added": "13230529657290230",
+               "guid": "152a325c-dc88-448a-bd82-43abd31decc2",
+               "id": "10",
+               "meta_info": {
+                  "Description": "shopping, electronics",
+                  "Partner": "79ce0f4e-f423-4c82-b26d-0d5868e29c83",
+                  "Thumbnail": "/resources/sd_amazon.png"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon-br"
+            }, {
+               "date_added": "13230529657290258",
+               "guid": "8e9615d2-b6ee-40e4-b920-656eb9396314",
+               "id": "11",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Partner": "ef4b6027-b859-48c1-8abe-7589440eb030",
+                  "Thumbnail": "/resources/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/aliexpress-pt-br"
+            }, {
+               "date_added": "13230529657290284",
+               "guid": "93b2a279-1036-4765-b530-388adf3eb9a2",
+               "id": "12",
+               "meta_info": {
+                  "Description": "travel",
+                  "Partner": "7ac2ed3b-d284-4a67-9137-d64550acf9d3",
+                  "Thumbnail": "/resources/sd_airbnb.png"
+               },
+               "name": "Airbnb",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/airbnb-br"
+            }, {
+               "children": [ {
+                  "date_added": "13230529657290317",
+                  "guid": "136696bf-1101-486e-a74c-6979b0089c9f",
+                  "id": "14",
+                  "meta_info": {
+                     "Description": "technology",
+                     "Partner": "462f36ed-a9ab-4bd8-a765-42df0b0c7a85",
+                     "Thumbnail": "/resources/sd_vivaldi.png"
+                  },
+                  "name": "Vivaldi Features",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-browser-features"
+               }, {
+                  "date_added": "13230529657290346",
+                  "guid": "c77c30fe-1022-478d-a724-6fdc0a4abec7",
+                  "id": "15",
+                  "meta_info": {
+                     "Description": "technology, social",
+                     "Partner": "debaf881-faff-4488-b9c7-8417bc7d3d39",
+                     "Thumbnail": "/resources/sd_vivaldi_community.gif"
+                  },
+                  "name": "Vivaldi Community",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-community"
+               }, {
+                  "date_added": "13230529657290371",
+                  "guid": "b3c1ccce-c63d-4aaa-a92d-2e1d164db56b",
+                  "id": "16",
+                  "meta_info": {
+                     "Partner": "47c3fce5-fe6f-4063-ae7b-a032d937be99",
+                     "Thumbnail": "/resources/sd_webmail.png"
+                  },
+                  "name": "Vivaldi Webmail",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-webmail"
+               } ],
+               "date_added": "13230529657290312",
+               "date_modified": "13230529657290371",
+               "guid": "26ba2fc0-8595-499f-9851-8d89452d2ea8",
+               "id": "13",
+               "meta_info": {
+                  "Partner": "81706adf-6bd8-4b97-bb5f-c469391cd5be"
+               },
+               "name": "Vivaldi",
+               "type": "folder"
+            } ],
+            "date_added": "13230529657288688",
+            "date_modified": "13230529657290284",
+            "guid": "85c996f3-13b6-42c9-918d-f4daee50b250",
+            "id": "6",
+            "meta_info": {
+               "Partner": "1b54b1b0-70c1-4166-945c-66d3d08535e4",
+               "Speeddial": "true"
+            },
+            "name": "Speed Dial",
+            "type": "folder"
+         } ],
+         "date_added": "13230529655880970",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13230529655880977",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13230529655880979",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Favoritos de dispositivos móveis",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13230529655880980",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000040000",
+         "id": "4",
+         "name": "Lixeira",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
